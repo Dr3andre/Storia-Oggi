@@ -1,0 +1,142 @@
+html, body{
+    height: 100%;
+    background-color: rgb(149,206,163);
+} 
+
+
+.altezza-container{
+    height: 100%;
+}
+
+#h-dicosatrattiamo{
+    margin-top: 30px; 
+}
+
+
+.colore{
+    color: black;
+}
+
+
+.mt-h{
+    margin-top: 90px;
+}
+
+
+
+.mb-h{
+    margin-top: 150px;
+}
+
+
+.h-img{
+    height: 130px;
+    width: 130px;
+}
+
+
+.flex-box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+
+.navbar, .bg-color{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+}
+
+
+.bg-color-div{
+    height: 4px;
+    background-color: black;
+}
+
+
+.grandezza_card{
+    height: 530px;
+}
+
+.grandezza_img{
+    height: 255px;
+}
+
+.spazio-tra-card{
+    height: 600px;
+}
+
+
+.grandezza-descrizione{
+    overflow: hidden;
+    height: 53px;
+    
+}
+
+
+.h-detail{
+    height: 330px;
+    width: 330px;
+    margin-top: 98px;
+}
+
+
+.h-btn{
+    height: 90px;
+    width: 90px;
+}
+
+
+.h-icon{
+    height: 75px;
+    width: 45px;
+}
+
+
+
+.bg-color-footer{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.bordi{
+    border-radius: 6px;
+}
+
+
+
+
+@media screen and (max-width: 576px){
+    
+    .grandezza-da-tel{
+        width: 345px;  
+    }
+    .da-telefono{
+        display: flex;
+        justify-content: center;
+    }
+    .spazio-tra-card{
+        display: flex;
+        justify-content: center;
+    }
+
+    .foot{
+        margin-top: 1000px;
+        
+    }
+
+    .dflex-tel{
+        width: 350px;
+    }
+
+    .h-footer-articles{
+        margin-bottom: 1000px;
+    }
+}
+
+
+
+
+
+
+
